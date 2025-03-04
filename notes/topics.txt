@@ -1,0 +1,14 @@
+-- internet fundamental
+-- UI/UX - figma
+-- html intro
+-- headings,p,a,img
+-- formatting tags
+-- lists
+-- block vs inline
+-- tables
+-- semantic elements
+-- classes & id, symbol codes
+-- media
+-- forms(form attributes,input attributes,
+different types of inputs,fieldset,label,textare,select,legend,validation)
+-- HTML5
